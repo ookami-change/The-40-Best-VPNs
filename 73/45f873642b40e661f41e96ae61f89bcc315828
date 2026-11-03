@@ -1,0 +1,29 @@
+README.md
+  s_818b32d66730e3::t_cbb0e98c00a5da 6
+  s_818b32d66730e3::t_200abb75e2007b 28
+  s_818b32d66730e3::t_6a90469d011287 30
+  s_818b32d66730e3::t_0b69a5d3ca6386 20
+  s_818b32d66730e3::t_a0eb5a02b3bac7 12
+  s_818b32d66730e3::t_adb6b74cbcc7ed 1991-1992
+  s_818b32d66730e3::t_ab5a2604efb7a3 1852-1877
+  s_818b32d66730e3::t_4335ea38e7e29b 1938
+data/providers.yml
+  s_818b32d66730e3::t_ab3c407fefe38e 2
+  s_818b32d66730e3::t_5b10e50952315d 181-184
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "7345f873642b40e661f41e96ae61f89bcc315828",
+  "prompts": {},
+  "sessions": {
+    "s_818b32d66730e3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1adce010-0cd8-492d-a085-8174aac1a187",
+        "model": "grok-4.7"
+      },
+      "human_author": "hanchenggang.4869 <hanchenggang.4869@jd.com>"
+    }
+  }
+}
